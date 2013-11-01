@@ -1,0 +1,7 @@
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\bin\WebApplication1.dll
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\bin\WebApplication1.pdb
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\bin\NvWa.PaaS.SSO.Client.dll
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\bin\NvWa.PaaS.SSO.Client.pdb
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\obj\Debug\WebApplication1.dll
+D:\PassProject\NvWa.PaaS.SSO\WebApplication1\obj\Debug\WebApplication1.pdb
